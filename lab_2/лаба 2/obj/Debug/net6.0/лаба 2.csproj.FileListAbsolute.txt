@@ -1,0 +1,15 @@
+D:\lab_2\лаба 2\bin\Debug\net6.0\лаба 2.exe
+D:\lab_2\лаба 2\bin\Debug\net6.0\лаба 2.deps.json
+D:\lab_2\лаба 2\bin\Debug\net6.0\лаба 2.runtimeconfig.json
+D:\lab_2\лаба 2\bin\Debug\net6.0\лаба 2.dll
+D:\lab_2\лаба 2\bin\Debug\net6.0\лаба 2.pdb
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.csproj.AssemblyReference.cache
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.AssemblyInfoInputs.cache
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.AssemblyInfo.cs
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.csproj.CoreCompileInputs.cache
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.dll
+D:\lab_2\лаба 2\obj\Debug\net6.0\refint\лаба 2.dll
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.pdb
+D:\lab_2\лаба 2\obj\Debug\net6.0\лаба 2.genruntimeconfig.cache
+D:\lab_2\лаба 2\obj\Debug\net6.0\ref\лаба 2.dll
